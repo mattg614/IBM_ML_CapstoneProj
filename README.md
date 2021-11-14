@@ -1,4 +1,3 @@
 # IBM_ML_CapstoneProj
-## Editing the file
-
-Its a markdown file in this repository.
+## 
+Repository for IBM Machine Learning Capstone Project via EDX. 
